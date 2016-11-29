@@ -1,0 +1,7 @@
+.DS_Store
+config/google-auth.json
+data/*
+env/
+local_settings.py
+*.pyc
+nltk_data
