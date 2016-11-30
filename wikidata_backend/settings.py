@@ -1,0 +1,1 @@
+from wikidata_backend.local_settings import *
